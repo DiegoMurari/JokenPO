@@ -12,6 +12,10 @@ Este é um simples jogo de Jokenpô desenvolvido em Flutter, utilizando a plataf
 - **Flutter**: Framework para desenvolvimento mobile multiplataforma.
 - **Dart**: Linguagem de programação utilizada pelo Flutter.
 
+
+https://github.com/user-attachments/assets/69ee60b6-407e-4f66-9017-4c0790d91eb8
+
+
 ## Como Executar o Projeto
 
 1. Acesse o FlutLab(https://flutlab.io/) e abra o projeto.
